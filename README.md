@@ -2,6 +2,9 @@
 
 Type 2 Diabetes Mellitus is a major metabolic disorder that often progresses silently, making early detection critical. This project provides an end-to-end deep learning framework for diabetes screening using 100,000 clinical records. False negatives in medical diagnostics carry severe consequences; this model strictly prioritizes **Recall (sensitivity)** over raw accuracy. 
 
+## Dataset
+Diabetes prediction dataset (https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset), which contains 100,000 clinical records featuring key demographic and biomarker data.
+
 ## The Approach
 Instead of using spatial models like CNNs, this project utilizes an **Attention-Enhanced Multi-Layer Perceptron (Attention-MLP)** tailored for independent tabular clinical data. 
 * **Feature Attention:** Dynamically prioritizes critical clinical biomarkers, such as HbA1c and blood glucose levels.
