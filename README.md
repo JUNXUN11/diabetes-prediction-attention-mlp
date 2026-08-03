@@ -17,4 +17,4 @@ Evaluated on an isolated testing set, the Attention-MLP successfully identified 
 * **Baseline MLP Recall:** 86.0%
 
 #### Collaboration
-This project was collaborated on by Jingying Ng, Jiayu Ong, Xinya Siow and Jun Xun Too.
+This project was collaborated on by Jingying Ng, Jiayu Ong, Xinya Siow and JunXun Too.
